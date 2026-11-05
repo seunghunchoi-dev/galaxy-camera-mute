@@ -1,0 +1,45 @@
+갤럭시 카메라 무음 (Galaxy Camera Mute) 라이선스
+Copyright (c) 2026 최승훈 (gwchoi.com, gwchoi96@gmail.com). All rights reserved.
+
+이 소프트웨어(소스 코드, 실행 파일, 사용설명서, 이미지 등 저작자의 저작물 일체)의
+저작권은 저작자에게 있습니다. 소스 코드는 투명성을 위해 공개하는 것이며,
+오픈소스 라이선스로 배포하는 것이 아닙니다.
+
+1. 허용되는 것
+   - 공식 배포처에서 받은 실행 파일을 본인 소유 기기에 개인적·비상업적으로 사용
+   - 소스 코드를 열람하고, 동작과 안전성을 확인하기 위해 본인 PC에서 직접 빌드·실행
+   - 공식 배포처 링크를 공유하는 것
+     공식 배포처: https://github.com/seunghunchoi-dev/galaxy-camera-mute
+
+2. 저작자의 사전 서면 허락 없이 금지되는 것
+   - 소스 코드 또는 실행 파일을 수정하거나, 이를 바탕으로 2차 저작물을 만들어 배포·공유하는 것
+   - 원본 또는 수정본을 다른 웹사이트·커뮤니티·저장소 등에 다시 올려 배포하는 것
+   - 판매, 유료 서비스 포함 등 상업적으로 이용하는 것
+   - 저작자 표시와 이 라이선스 문구를 지우거나 바꾸는 것
+
+3. 보증의 부인과 책임의 제한
+   이 소프트웨어는 "있는 그대로" 제공되며 어떠한 보증도 하지 않습니다.
+   사용으로 인해 생긴 손해나 법적 문제에 대해 저작자는 책임지지 않습니다.
+   본인 소유 기기에만 사용하고, 타인의 동의 없는 촬영에 사용하지 마세요.
+
+4. 제3자 구성요소
+   함께 쓰이는 제3자 구성요소(CustomTkinter, Pillow, darkdetect, Python, Tcl/Tk,
+   Zstandard, Android SDK Platform-Tools 등)는 각자의 라이선스를 따르며,
+   이 라이선스가 그 권리를 제한하지 않습니다. 자세한 내용은 THIRD-PARTY-NOTICES.md 를 참고하세요.
+
+허락이 필요하면 gwchoi96@gmail.com 으로 문의하세요.
+
+----------------------------------------------------------------------
+
+Galaxy Camera Mute License
+Copyright (c) 2026 Choi Seunghoon. All rights reserved.
+
+The source code is published for transparency only; this is NOT an open source license.
+You may use the official executable on your own devices for personal, non-commercial
+purposes, read the source code, build it locally to verify it, and share links to the
+official repository. Without prior written permission from the author you may NOT
+modify or create derivative works for distribution, redistribute the original or
+modified versions elsewhere, use it commercially, or remove or alter this notice.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, AND THE AUTHOR SHALL
+NOT BE LIABLE FOR ANY DAMAGES ARISING FROM ITS USE. Third-party components remain under
+their own licenses (see THIRD-PARTY-NOTICES.md).
